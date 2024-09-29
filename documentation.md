@@ -120,4 +120,3 @@ The Gradio interface allows users to upload an image and enter a story to genera
 Users can adjust various parameters in the functions:
 - **Grid size** for the storyboard layout.
 - **Font size and style** used for embedding text in the images.
-- **Story length** or the number of generated prompts can also be adjusted by modifying the call to Mistral.
